@@ -1,9 +1,10 @@
 # Vue.js音乐播放器
+
 Vue全家桶打造的一款音乐播放器
 
 ## 预览
 
-在线预览地址：[Vue音乐播放器](http://lenshen.com:8000)
+在线预览地址: https://music.lenshen.com
 
 演示：
 ![](https://github.com/lensh/vue-music/blob/master/preview/my.gif)
